@@ -2,6 +2,7 @@
 这是一个适合 AMD Ryzen 7 / Radeon 780M 本地运行的知识库问答项目，全程用 CPU 推理，无需 GPU，简单易部署。
 
 ## 📁 项目结构预览
+```
 local_qa/
 ├── app.py                 # 主程序（Gradio界面）
 ├── ingest.py              # 文档入库脚本
@@ -9,7 +10,7 @@ local_qa/
 ├── requirements.txt       # 依赖
 └── docs/                  # 放你的知识文档（pdf\word\txt）
     └── sample.txt
-
+```
 ## 第一步：安装 PyCharm 和 Python 环境
 确保已安装：
   Python 3.10+（推荐 3.11）
