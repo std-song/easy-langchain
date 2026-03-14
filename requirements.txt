@@ -3,7 +3,7 @@ langchain-community==0.2.16
 langchain-huggingface==0.0.3
 sentence-transformers==3.0.1
 faiss-cpu==1.8.0
-gradio==4.44.0
+gradio==3.50.2
 ollama==0.3.3
 python-docx==1.1.2
 pypdf==4.3.1
