@@ -139,6 +139,3 @@ if __name__ == "__main__":
         server_name="0.0.0.0",
         server_port=7860,
     )
-## 第五步：放入知识文档
-
-在 `docs/` 目录放入任意 `.txt` / `.pdf` / `.docx` 文件，例如 `sample.txt`：
